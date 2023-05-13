@@ -18,6 +18,10 @@ html {
   padding: 0 20px;
 }
 
+.section {
+  padding-bottom: 1em;
+}
+
 /* Use fixed layout for smaller screens */
 @media only screen and (max-width: 768px) {
   .container {
@@ -151,4 +155,13 @@ input[type="submit"]:hover {
 grid-area: links;
 width: 25%;
 margin: auto;
+}
+
+.heading_link {
+  color: #333;
+}
+
+.heading_link:hover {
+  color: dodgerblue;
+  text-decoration: none;
 }

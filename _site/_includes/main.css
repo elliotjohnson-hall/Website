@@ -1,0 +1,167 @@
+/* Set default font size and line height */
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Adjust padding for smaller screens */
+@media only screen and (max-width: 768px) {
+  body {
+    padding: 0 20px;
+  }
+}
+
+/* Use fluid layout for larger screens */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.section {
+  padding-bottom: 1em;
+}
+
+/* Use fixed layout for smaller screens */
+@media only screen and (max-width: 768px) {
+  .container {
+    max-width: 100%;
+  }
+  body {
+    padding: 0 10px;
+  }
+}
+
+/* Use responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Adjust font size for smaller screens */
+@media only screen and (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* Adjust font size and line height for larger screens */
+@media only screen and (min-width: 1200px) {
+  html {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+}
+
+/* Styles for the rest of the elements */
+body {
+  background-color: #f9f9f9;
+  color: #333;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: 'Lora', sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.header {
+  grid-area: header;
+}
+
+nav {
+  padding-top: 50px;
+  font-weight: bold;
+}
+.main {
+  grid-area: main;
+}
+
+.footer {
+  grid-area: footer;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+hr {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  border-color:#909090;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 0.33fr 1.34fr 0.33fr;
+  grid-template-areas: 
+    ". header ."
+    ". main ."
+    ". links ."
+    ". footer .";
+}
+
+
+a {
+  color: #ff69b4;
+  text-decoration: none;
+}
+
+.nav {
+  color: #333;
+}
+
+.nav:hover {
+  color: dodgerblue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button,
+input[type="button"],
+input[type="submit"] {
+  background-color: #ff69b4;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 12px 24px;
+  text-transform: uppercase;
+  transition: background-color 0.2s ease-in-out;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover {
+  background-color: #ff4785;
+}
+
+.social {
+  padding: 0.5em;
+}
+
+.links {
+grid-area: links;
+width: 25%;
+margin: auto;
+}
+
+.heading_link {
+  color: #333;
+}
+
+.heading_link:hover {
+  color: dodgerblue;
+  text-decoration: none;
+}
