@@ -109,7 +109,7 @@ hr {
 
 
 a {
-  color: #ff69b4;
+  color: #0064f0;
   text-decoration: none;
 }
 
@@ -124,6 +124,7 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color: dodgerblue;
 }
 
 button,
