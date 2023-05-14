@@ -4,12 +4,3 @@ module.exports = function(eleventyConfig) {
       passthroughFileCopy: true
     }
   };
-
-  module.exports = function(eleventyConfig) {
-    return {
-      dir: {
-        includes: "/_includes",
-        layouts: "/_includes/_layouts" 
-      }
-    }
-  };
