@@ -22,6 +22,10 @@ html {
   padding-bottom: 1em;
 }
 
+h2 {
+  padding-top: 1em;
+}
+
 /* Use fixed layout for smaller screens */
 @media only screen and (max-width: 768px) {
   .container {
