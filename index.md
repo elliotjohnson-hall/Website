@@ -26,7 +26,7 @@ I am also fascinated by the possibilities of additive manufacturing and am a kee
 
 ## Current projects
 
-### [Multi-material 3D printing to mimic the osteo-tendinous enthesis](/project-enthesis-edinburgh)
+### [Multi-material 3D printing to mimic the osteo-tendinous enthesis](/pages/projects/enthesis-edinburgh)
 
 This was my undergraduate dissertation project at the University of Edinburgh, supervised by Dr Jennifer Paxton. I explored the use of flexible TPU and other rigid plastics to mimic the interface between bone and tendon using 3D printing. I then went further to examine if the constructs I produced could be used for tissue engineering scaffolds.
 
