@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /*.pdf$
-Disallow: /*.svg$
-Disallow: /*.png$
-Disallow: /*.jp$
+Allow: /
