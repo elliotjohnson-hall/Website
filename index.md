@@ -18,27 +18,27 @@ I'm an anatomist and developmental biologist by training and I'm interested in t
 
 ## Research statement
 
-I am about to start an MRes at the University of Bristol after graduating from the University of Edinburgh with a BSc (Hons.) in Anatomy & Developmental Biology. I'm looking for PhD opportunites in tissue engineering, with a particular focus on osteochondral tissues and osteoarthritis.
+I am about to start an MRes at the University of Bristol with the Armstrong Group after graduating from the University of Edinburgh with a First Class BSc (Hons.) in Anatomy & Developmental Biology. I'm looking for PhD opportunites in tissue engineering, with a particular focus on osteochondral tissues and osteoarthritis.
 
-As an anatomist by training, I believe I bring a particular structured way of thinking about how tissues assemble to the field of tissue engineering. Through my dissection-based experience, I have observed the complex architecture of the musculoskeletal system first-hand which has resulted in my keen interest in working within this emerging area. I am a particularly keen to work with osteochondral tissues, both in health for *in vitro* models and in osteoarthritic diseased with a view to producing personalised, tissue-engineered constructs for implantation. 
+As an anatomist by training, I believe I bring a particular structured way of thinking about how tissues assemble to the field of tissue engineering. Through my dissection-based experience, I have observed the complex architecture of the musculoskeletal system first-hand which has resulted in my keen interest in working within this emerging area. I am a particularly keen to work with osteochondral tissues, both in health for *in vitro* models and in osteoarthritic disease with a view to producing personalised, tissue-engineered constructs for implantation.
 
 I am also fascinated by the possibilities of additive manufacturing and am a keen 3D printing enthusiast. I used my experience with this technology to produce constructs with a dynamic rigid-compliant interface for seeding with osteoblasts in the lab for my undergraduate project. By being able to design and produce prototypes rapidly, and iteratively I was able to achieve tensile properties similar to human tendons found *in vivo*. These skills, combined with my anatomy and developmental biology experience leads me to believe I can offer a fresh perspective to the field of musculoskeletal tissue engineering.
 
 ## Current projects
 
-### [Multi-material 3D printing to mimic the osteo-tendinous enthesis](/pages/projects/enthesis-edinburgh)
-
-This was my undergraduate dissertation project at the University of Edinburgh, supervised by Dr Jennifer Paxton. I explored the use of flexible TPU and other rigid plastics to mimic the interface between bone and tendon using 3D printing. I then went further to examine if the constructs I produced could be used for tissue engineering scaffolds.
-
 ### The effects of Covid-19 restrictions on contraception in Scotland
 
 I'm currently working on a manuscript about the effects of the Covid-19 pandemic and subsequent restrictions had on the prescribing of contraceptives in Scottish general practices. This is a retrospective study looking at data between 2015 and 2023.
 
-*Expected publication date: December 2023*
-
 ### Development of an open-source, economical bioreactor for tendon extension *in vitro*
 
-I am aiming to develop a cheap (less than £200) bioreactor concept based on an Arduino nano. This project is designed to overcome previous hurdles with economical bioreactors reported in the literature by using readily-available parts and standard cell culture plasticware. If successful, this could be useful for tendon tissue engineering where mechanical stress has been shown to be vital for proper development.
+I am aiming to develop a cheap (less than £200) bioreactor concept based on an Arduino Nano. This project is designed to overcome previous hurdles with economical bioreactors reported in the literature by using readily-available parts and standard cell culture plasticware. If successful, this could be useful for tendon tissue engineering where mechanical stress has been shown to be vital for proper development.
+
+## Previous projects
+
+### [Multi-material 3D printing to mimic the osteo-tendinous enthesis](/pages/projects/enthesis-edinburgh)
+
+This was my undergraduate dissertation project at the University of Edinburgh, supervised by Dr Jennifer Paxton. I explored the use of flexible TPU and other rigid plastics to mimic the interface between bone and tendon using 3D printing. I then went further to examine if the constructs I produced could be used for tissue engineering scaffolds. I'm presenting this work at the 2023 Summer Meeting of the Anatomical Society in Bangor.
 
 ## Outreach work
 
