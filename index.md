@@ -23,7 +23,7 @@ As an anatomist by training, I believe I bring a particular structured way of th
 
 ## Current projects
 
-### High-concentration collagen and glycosaminoglycan hydrogels for articular cartilage tissue engineering
+### High-concentration collagen and glycosaminoglycan hydrogels for articular cartilage tissue engineering
 
 This is my MRes project where we aim to produce high-concentration biomimetic hydrogels composed of type II collagen and glycosaminoglycans to recapitulate the architecture and properties of the extracellular matrix of native articular cartilage. If successful, this could be used for *in vitro* modelling, or as a stepping stone to a future biomaterial for cartilage repair.
 
