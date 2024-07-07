@@ -33,9 +33,9 @@ I'm currently working on a manuscript about the effects of the Covid-19 pandemic
 
 ## Previous projects
 
-### [Multi-material 3D printing to mimic the osteo-tendinous enthesis](/pages/projects/enthesis-edinburgh)
+### Multi-material 3D printing to mimic the osteo-tendinous enthesis
 
-This was my undergraduate dissertation project at the University of Edinburgh, supervised by Dr Jennifer Paxton. I explored the use of flexible TPU and other rigid plastics to mimic the interface between bone and tendon using 3D printing. I then went further to examine if the constructs I produced could be used for tissue engineering scaffolds. I'm presenting this work at the 2023 Summer Meeting of the Anatomical Society in Bangor.
+This was my undergraduate dissertation project at the University of Edinburgh, supervised by Dr Jennifer Paxton. I explored the use of flexible TPU and other rigid plastics to mimic the interface between bone and tendon using 3D printing. I then went further to examine if the constructs I produced could be used for tissue engineering scaffolds. I presented this work at the 2023 Summer Meeting of the Anatomical Society in Bangor.
 
 ## Outreach work
 
